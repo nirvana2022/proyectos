@@ -1,1 +1,1 @@
-drop database prueba;
+drop database concesionario;

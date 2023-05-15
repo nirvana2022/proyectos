@@ -1,2 +1,2 @@
-use prueba;
-ALTER TABLE usuariousuario ADD cedula int(8);
+use concesionario;
+ALTER TABLE fichaauto ADD fecha_compra datetime;

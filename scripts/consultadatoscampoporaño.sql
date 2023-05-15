@@ -1,0 +1,1 @@
+SELECT * FROM concesionario.fichaauto WHERE modelo=2023;

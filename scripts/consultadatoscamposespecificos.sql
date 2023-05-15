@@ -1,0 +1,1 @@
+SELECT marca,modelo FROM concesionario.fichaauto;

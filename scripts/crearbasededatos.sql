@@ -1,1 +1,1 @@
-CREATE database prueba;
+CREATE database concesionario;
